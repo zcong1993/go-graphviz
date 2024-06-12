@@ -8,8 +8,8 @@ import (
 	"os"
 
 	"github.com/fogleman/gg"
-	"github.com/goccy/go-graphviz/internal/ccall"
 	"github.com/golang/freetype/truetype"
+	"github.com/zcong1993/go-graphviz/internal/ccall"
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/gofont/goregular"
 )

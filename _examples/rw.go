@@ -3,8 +3,6 @@ package main
 import (
 	"bytes"
 	"log"
-
-	"github.com/goccy/go-graphviz"
 )
 
 func renderDOTGraph() ([]byte, error) {

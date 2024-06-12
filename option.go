@@ -1,6 +1,6 @@
 package graphviz
 
-import "github.com/goccy/go-graphviz/cgraph"
+import "github.com/zcong1993/go-graphviz/cgraph"
 
 type GraphOption func(g *Graphviz)
 

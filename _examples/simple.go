@@ -4,8 +4,6 @@ import (
 	"bytes"
 	"fmt"
 	"log"
-
-	"github.com/goccy/go-graphviz"
 )
 
 func _main() error {

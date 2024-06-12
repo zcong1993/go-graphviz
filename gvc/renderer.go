@@ -3,8 +3,8 @@ package gvc
 import (
 	"sync"
 
-	"github.com/goccy/go-graphviz/internal/ccall"
 	"github.com/pkg/errors"
+	"github.com/zcong1993/go-graphviz/internal/ccall"
 )
 
 type Renderer interface {

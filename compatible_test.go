@@ -13,7 +13,7 @@ import (
 	"testing"
 
 	"github.com/corona10/goimagehash"
-	"github.com/goccy/go-graphviz"
+	"github.com/zcong1993/go-graphviz"
 )
 
 var (
